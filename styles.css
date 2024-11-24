@@ -9,7 +9,7 @@ body {
 
 /* Header */
 .header {
-    background: linear-gradient(to right, #800507, #fcaf17);
+    background: linear-gradient(to right, #fcaf17, #800507);
     color: #fff;
     text-align: center;
     padding: 30px 10px;
@@ -55,7 +55,7 @@ body {
 }
 
 .navbar a:hover {
-    color: #800507;
+    color: #fcaf17;
 }
 
 /* Section Content */
@@ -70,7 +70,7 @@ body {
 }
 
 .section h2 {
-    color: #800507;
+    color: #fcaf17;
 }
 
 .section img {
